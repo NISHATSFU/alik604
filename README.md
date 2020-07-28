@@ -25,18 +25,17 @@ Here are some ideas to get you started:
 - 😡 Something I hate: When someone refers you to their paper, which provides minimal information and delegates to another paper. Lack of disclosure  
 - ⚡ Famous People whom I look upto: Khabib Nurmagomedov, George hotz, Elon Musk, Ian Goodfellow, Ben Goertzel
 
-- [Projects currently in progress:](#projects-currently-in-progress)
+- [Projects currently in progress:](https://github.com/alik604/alik604/blob/master/README_FULL.md#personal-projects---currently)
+  * [Cybers ecurity](https://github.com/alik604/alik604/blob/master/README_FULL.md#cybersecurity) 
   * [Mathematical Finance](https://github.com/alik604/mathematical-finance)
-  * [Cyber Security](https://github.com/alik604/cyber-security) 
   * Soon to start more NLP and Reinforcement Learning 
-- [Projects-Past:](#projects-past)
-  * [openCV object detection](#opencv-object-detection)
-  * [SFU Robotics Club](#sfu-robotics-club)
-  * [Networking Related](#networking-related)
-  * [Python - for Data Science and Cybersecurity](#python---for-data-science-and-cybersecurity)
-  * [Web](#web)
-  * [Android](#android)
- - [Classes](#classes)
+- [Projects-Past:](https://github.com/alik604/alik604/blob/master/README_FULL.md#projects-past)
+  * [openCV object detection](https://github.com/alik604/alik604/blob/master/README_FULL.md#opencv-object-detection)
+  * [SFU Robotics Club](https://github.com/alik604/alik604/blob/master/README_FULL.md#sfu-robotics-club)
+  * [Networking Related](https://github.com/alik604/alik604/blob/master/README_FULL.md#networking-related)
+  * [Web](https://github.com/alik604/alik604/blob/master/README_FULL.md#web)
+  * [Android](https://github.com/alik604/alik604/blob/master/README_FULL.md#android)
+ - [Classes](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
 -----------------------------------
 
 # Educational Background and Professional Interests
