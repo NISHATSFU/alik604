@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 - ⚡ Famous People whom I look up to: Khabib Nurmagomedov, George hotz, Elon Musk, Ian Goodfellow, Ben Goertzel
 
 - [Projects currently in progress:](https://github.com/alik604/alik604/blob/master/README_FULL.md#personal-projects---currently)
-  * [Cyber security 💻](https://github.com/alik604/alik604/blob/master/README_FULL.md#cybersecurity) 
-  * [Mathematical Finance 💸](https://github.com/alik604/mathematical-finance)
+  * [💻 Cyber security](https://github.com/alik604/alik604/blob/master/README_FULL.md#cybersecurity) 
+  * [💸 Mathematical Finance](https://github.com/alik604/mathematical-finance)
   * Soon to start more NLP and Reinforcement Learning 
 - [Projects-Past:](https://github.com/alik604/alik604/blob/master/README_FULL.md#projects-past)
-  * [openCV object detection 👀](https://github.com/alik604/alik604/blob/master/README_FULL.md#opencv-object-detection)
-  * [SFU Robotics Club 🤖](https://github.com/alik604/alik604/blob/master/README_FULL.md#sfu-robotics-club)
-  * [Web 🕸](https://github.com/alik604/alik604/blob/master/README_FULL.md#web)
-  * [Android 📱](https://github.com/alik604/alik604/blob/master/README_FULL.md#android)
- - [Classes 🏫](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
+  * [👀 openCV object detection](https://github.com/alik604/alik604/blob/master/README_FULL.md#opencv-object-detection)
+  * [🤖 SFU Robot Soccer Club](https://github.com/alik604/alik604/blob/master/README_FULL.md#sfu-robotics-club)
+  * [🕸 Web ](https://github.com/alik604/alik604/blob/master/README_FULL.md#web)
+  * [📱 Android](https://github.com/alik604/alik604/blob/master/README_FULL.md#android)
+ - [🏫 Classes](https://github.com/alik604/alik604/blob/master/README_FULL.md#classes)
 -----------------------------------
 
 # Educational Background and Professional Interests
