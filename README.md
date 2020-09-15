@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub 👋
 
-> Readme is a site [Full Version](https://alik604.github.io/alik604/README_FULL)
+> [Full Version of this Readme.md](https://alik604.github.io/alik604/README_FULL)
 
 -  ⏳ I’m currently
     - 🔭 Working on: Machine Learning for {Cyber Security, Natural Language Processing, BioMedical Imaging, Finance} 
